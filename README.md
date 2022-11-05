@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on  proyectos que  mi esfuerzo sea recompensado en una relacion ganar ganar.
 - 📫 How to reach me  antoniotower.ot@gmail.com
 
+Practica web implementada https://github-com-oats-74-index-html.vercel.app/index.html
+
 <!---
 OATS74/OATS74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
